@@ -2,13 +2,6 @@
 ****************************************************************************
 *  Copyright (c),  Skyline Communications NV  All Rights Reserved.    *
 ****************************************************************************
-
-Revision History:
-
-DATE		VERSION		AUTHOR			COMMENTS
-
-22/01/2024	1.0.0.1		XXX, Skyline	Initial version
-****************************************************************************
 */
 
 namespace Automation_1
